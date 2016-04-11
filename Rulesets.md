@@ -19,4 +19,4 @@ followed by a semicolon
 	1. Create Selector
 	2. Create Rule or Rules 
 		* Determine types of properties that can be set for a particular element
-		* Determine types of values that each property accepts*/ 
+		* Determine types of values that each property accepts
