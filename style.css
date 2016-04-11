@@ -1,0 +1,19 @@
+body {
+	background: lightcyan;
+	width: 800px;
+	margin: auto;
+}
+
+h1 {
+	color: maroon;
+	text-align: center;
+}
+
+p {
+	color: gray;
+	border: 1px solid gray;
+	padding: 10px;
+}
+
+/* A CSS file is a collection of rulesets*/ 
+/* A ruleset is a collection of style rules applied to some subset of elements in the DOM*/
