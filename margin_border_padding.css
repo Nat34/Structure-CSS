@@ -1,5 +1,5 @@
 body {
-	background: linen;
+	background: orange;
 	width: 500px;
 	margin:	200px auto;
 }
@@ -7,13 +7,16 @@ body {
 div {
 	border: 5px solid maroon;
 	text-align: center;
-	padding: 5px;
+	padding: 15px;
 }
 
 p {
 	border: 2px dashed blue;
+	padding: 15px;
 }
 
-/*Padding: spacing between element and border
-  Margin:  spacing between element and surround element
-  Border:  spacing between padding and margin;*/
+/*
+  Margin:  spacing between element and surrounding element
+  Border:  spacing between padding and margin;
+  Padding: spacing between element and border i.e padding is around text
+*/

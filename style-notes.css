@@ -1,4 +1,3 @@
-style-notes.css
 body { /*applied to body element in the DOM*/
 	background: lightcyan;
 	width: 800px;
@@ -27,3 +26,12 @@ followed by a semicolon*/
 	border: 1px solid gray;
 	padding: 10px;
 }*/
+
+/*CSS Ruleset Workflow:
+
+1. Determine HTML element to which you want to apply the style
+2. Create a Ruleset
+	2a. Create Selector
+	2b. Create Rule or Rules 
+		2b1. Determine types of properties that can be set for a particular element
+		2b2. Determine types of values that each property accepts*/ 
