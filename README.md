@@ -20,9 +20,9 @@ Task List
 - [x] Selectors
 - [x] Classes
 - [x] Pseudoclasses
-- [ ] Complex Selectors
-- [ ] Cascading Rules
-- [ ] Inheritance
+- [x] Complex Selectors
+- [x] Cascading Rules
+- [x] Inheritance
 - [ ] Layouts with Floats
 - [ ] the clear Property
 - [ ] Working with Fonts
