@@ -23,12 +23,12 @@ Task List
 - [x] Complex Selectors
 - [x] Cascading Rules
 - [x] Inheritance
-- [ ] Layouts with Floats
+- [x] Layouts with Floats
 - [ ] the clear Property
 - [ ] Working with Fonts
 - [ ] Resetting Browser Inconsistencies
-- [ ] CSS Lint to Identify Potential Errors
-- [ ] Interacting and Troubleshooting with Firefox Developer Tools
+- [x] CSS Lint to Identify Potential Errors
+- [x] Interacting and Troubleshooting with Firefox Developer Tools
 - [ ] Styling
 - [ ] The Grid
 - [ ] Responsiveness
