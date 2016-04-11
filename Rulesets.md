@@ -1,0 +1,22 @@
+# Rulesets
+
+* A CSS file is a collection of rulesets
+* A ruleset is a collection of style rules applied to some subset of elements in the DOM
+* A ruleset consists of a selector; "body", an opening curly brace, a list of rules and closing curly brace
+* Each rule consists of a specific property; "color", followed by a colon, followed by a value or list of values,
+followed by a semicolon
+
+`p {
+	color: gray;
+	border: 1px solid gray;
+	padding: 10px;
+}`
+
+**CSS Ruleset Workflow:**
+
+1. Determine HTML element to which you want to apply the style
+2. Create a Ruleset
+	2a. Create Selector
+	2b. Create Rule or Rules 
+		2b1. Determine types of properties that can be set for a particular element
+		2b2. Determine types of values that each property accepts*/ 
