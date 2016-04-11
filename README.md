@@ -14,8 +14,8 @@ Mozilla Developer Network (MDN), W3C HTML Validation Service, Learning Web App D
 
 Task List
 - [x] Hello, CSS!
-- [ ] Rulesets
-- [ ] Comments
+- [x] Rulesets
+- [x] Comments
 - [ ] Padding, Boder, and Margin
 - [ ] Selectors
 - [ ] Classes
