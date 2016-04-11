@@ -1,0 +1,19 @@
+body {
+	background: linen;
+	width: 500px;
+	margin:	200px auto;
+}
+
+div {
+	border: 5px solid maroon;
+	text-align: center;
+	padding: 5px;
+}
+
+p {
+	border: 2px dashed blue;
+}
+
+/*Padding: spacing between element and border
+  Margin:  spacing between element and surround element
+  Border:  spacing between padding and margin;*/
