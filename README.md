@@ -17,7 +17,7 @@ Task List
 - [x] Rulesets
 - [x] Comments
 - [x] Padding, Boder, and Margin
-- [ ] Selectors
+- [x] Selectors
 - [ ] Classes
 - [ ] Pseudoclasses
 - [ ] Complex Selectors
