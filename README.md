@@ -16,7 +16,7 @@ Task List
 - [x] Hello, CSS!
 - [x] Rulesets
 - [x] Comments
-- [ ] Padding, Boder, and Margin
+- [x] Padding, Boder, and Margin
 - [ ] Selectors
 - [ ] Classes
 - [ ] Pseudoclasses
