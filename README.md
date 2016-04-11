@@ -19,7 +19,7 @@ Task List
 - [x] Padding, Boder, and Margin
 - [x] Selectors
 - [x] Classes
-- [ ] Pseudoclasses
+- [x] Pseudoclasses
 - [ ] Complex Selectors
 - [ ] Cascading Rules
 - [ ] Inheritance
