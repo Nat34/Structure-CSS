@@ -21,8 +21,8 @@ Task List
 - [x] Classes
 - [x] Pseudoclasses
 - [x] Complex Selectors
-- [ ] Cascading Rules
-- [ ] Inheritance
+- [x] Cascading Rules
+- [x] Inheritance
 - [ ] Layouts with Floats
 - [ ] the clear Property
 - [ ] Working with Fonts
