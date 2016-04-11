@@ -27,4 +27,15 @@ followed by a semicolon
 * To appy style to list items (or li elements) that are descendants of div class, 
 use the class name in the Selector
 * To apply style to elements that are first child of their parents use "first-child" in the Selector
-* To apply style to elements that are second, third, etc child of their parents use "nth-child(#)" in the Selecto
+* To apply style to elements that are second, third, etc child of their parents use "nth-child(#)" in the Selector
+
+**Cascading Rules**
+* Set of rules browsers apply amid conflicting rules
+* Specific Selectors take precedence
+* The ruleset that appears later in the CSS list will be applied
+
+**Inheritance**
+* Descendants inherit properties of their ancestors
+* Maintain a visualization of the DOM hierarchy is essential
+* Not all properties are inherited by default
+* 	Non-inherited: Block-style elements
