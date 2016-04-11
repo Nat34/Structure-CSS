@@ -16,7 +16,7 @@ followed by a semicolon
 
 1. Determine HTML element to which you want to apply the style
 2. Create a Ruleset
-	2a. Create Selector
-	2b. Create Rule or Rules 
-		2b1. Determine types of properties that can be set for a particular element
-		2b2. Determine types of values that each property accepts*/ 
+	1. Create Selector
+	2. Create Rule or Rules 
+		* Determine types of properties that can be set for a particular element
+		* Determine types of values that each property accepts*/ 
