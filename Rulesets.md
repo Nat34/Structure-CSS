@@ -49,7 +49,7 @@ use the class name in the Selector
 * Use absolute size values: xx-large, x-large, x-small, xx-small (Relative to current context)
 * Use em unit to specify length (i.e. scale all font sizes relative to base font size, more specific)
 
-*Summary*
+**Summary**
 * add style to the structure of the user interface and content
 * attach stylistic *rulesets* to elements in the DOM
 * restrict CSS rulesets to a subset of DOM elements using CSS *Selectors*
