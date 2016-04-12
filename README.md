@@ -29,7 +29,7 @@ Task List
 - [x] Resetting Browser Inconsistencies
 - [x] CSS Lint to Identify Potential Errors
 - [x] Interacting and Troubleshooting with Firefox Developer Tools
-- [ ] Styling
+- [x] Styling
 - [ ] The Grid
 - [ ] Responsiveness
 
