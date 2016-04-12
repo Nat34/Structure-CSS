@@ -25,8 +25,8 @@ Task List
 - [x] Inheritance
 - [x] Layouts with Floats
 - [ ] the clear Property
-- [ ] Working with Fonts
-- [ ] Resetting Browser Inconsistencies
+- [x] Working with Fonts
+- [x] Resetting Browser Inconsistencies
 - [x] CSS Lint to Identify Potential Errors
 - [x] Interacting and Troubleshooting with Firefox Developer Tools
 - [ ] Styling
