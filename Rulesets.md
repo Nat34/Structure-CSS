@@ -43,3 +43,5 @@ use the class name in the Selector
 **Web Fonts**
 * Add `<link>` tag to the head of your HTML
 * `<link href='https://fonts.googleapis.com/css?family=Denk+One' rel='stylesheet' type='text/css'>`
+* To style an element with the font add a font-family property to the ruleset
+* `font-family: `Denk One`, sans-serif;`
