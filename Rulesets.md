@@ -44,4 +44,8 @@ use the class name in the Selector
 * Add `<link>` tag to the head of your HTML
 * `<link href='https://fonts.googleapis.com/css?family=Denk+One' rel='stylesheet' type='text/css'>`
 * To style an element with the font add a font-family property to the ruleset
-* `font-family: `Denk One`, sans-serif;`
+* `font-family: Denk One, sans-serif;` The first property specifies the font, the second defaults if first is not available.
+* Set a base font size
+* Use absolutel size values: xx-large, x-large, x-small, xx-small (Relative to current context)
+* Use em unit to specify length (i.e. scale all font sizes relative to base font size, more specific)
+
