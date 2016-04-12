@@ -38,4 +38,8 @@ use the class name in the Selector
 * Descendants inherit properties of their ancestors
 * Maintain a visualization of the DOM hierarchy is essential
 * Not all properties are inherited by default
-* 	Non-inherited: Block-style elements
+* Non-inherited: some Block-style elements
+
+**Web Fonts**
+* Add `<link>` tag to the head of your HTML
+* `<link href='https://fonts.googleapis.com/css?family=Denk+One' rel='stylesheet' type='text/css'>`
