@@ -1,15 +1,15 @@
-body {
+body { /*applied to body element in the DOM*/
 	background: lightcyan;
 	width: 800px;
 	margin: auto;
 }
 
-h1 {
+h1 { /*applied to h1 element in the DOM*/
 	color: maroon;
 	text-align: center;
 }
 
-p {
+p { /*applied to p element in the DOM*/
 	color: gray;
 	border: 1px solid gray;
 	padding: 10px;
@@ -17,3 +17,12 @@ p {
 
 /* A CSS file is a collection of rulesets*/ 
 /* A ruleset is a collection of style rules applied to some subset of elements in the DOM*/
+/* A ruleset consists of a selector; "body", an opening curly brace, a list of rules and closing curly brace*/
+/* Each rule consists of a specific property; "color", followed by a colon, followed by a value or list of values,
+followed by a semicolon*/
+
+/*p {
+	color: gray;
+	border: 1px solid gray;
+	padding: 10px;
+}*/
