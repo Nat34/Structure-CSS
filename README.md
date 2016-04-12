@@ -24,12 +24,13 @@ Task List
 - [x] Cascading Rules
 - [x] Inheritance
 - [x] Layouts with Floats
-- [ ] the clear Property
+- [x] the clear Property
 - [x] Working with Fonts
 - [x] Resetting Browser Inconsistencies
 - [x] CSS Lint to Identify Potential Errors
 - [x] Interacting and Troubleshooting with Firefox Developer Tools
 - [x] Styling
-- [ ] The Grid
-- [ ] Responsiveness
+- [x] The Grid
+- [x] Responsiveness
+- [ ] Memorization
 
