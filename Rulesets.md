@@ -56,4 +56,7 @@ use the class name in the Selector
 * set up basic document layouts on a grid using CSS float properies
 * ensure proper alignment and spacing of content using padding and margins
 
+**Additions**
+* CSS class names that contain multiple words use dashes `<section class="comment-input"></section>`
+
 
