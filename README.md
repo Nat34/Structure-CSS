@@ -1,7 +1,7 @@
 # Style-CSS
 Client-Side Topic: CSS
 
-This folder contains practice files.  These files are created while learning to use Cascading Style Sheets (CSS).  These stylesheets are used to describe the presentation of an HTML or XML document and describes how the elements should be displayed on screen, in speech or other media.  HTML files in use were created for [Structure-HTML](https://github.com/Nat34/Structure-HTML.git) project.
+This repository contains practice files.  These files are created while learning to use Cascading Style Sheets (CSS).  These stylesheets are used to describe the presentation of an HTML or XML document and describes how the elements should be displayed on screen, in speech or other media.  HTML files in use were created for [Structure-HTML](https://github.com/Nat34/Structure-HTML.git) project.
 
 ## Project: 
 Structure an HTML document using CSS
@@ -24,12 +24,13 @@ Task List
 - [x] Cascading Rules
 - [x] Inheritance
 - [x] Layouts with Floats
-- [ ] the clear Property
+- [x] the clear Property
 - [x] Working with Fonts
 - [x] Resetting Browser Inconsistencies
 - [x] CSS Lint to Identify Potential Errors
 - [x] Interacting and Troubleshooting with Firefox Developer Tools
 - [x] Styling
-- [ ] The Grid
-- [ ] Responsiveness
+- [x] The Grid
+- [x] Responsiveness
+- [ ] Memorization (on-going)
 
